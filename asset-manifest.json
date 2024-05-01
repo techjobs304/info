@@ -1,15 +1,19 @@
 {
   "files": {
-    "main.css": "/info/static/css/main.2d462af8.css",
-    "main.js": "/info/static/js/main.2097d3d8.js",
+    "main.css": "/info/static/css/main.116aaa61.css",
+    "main.js": "/info/static/js/main.99426f23.js",
     "static/js/453.d2d8b715.chunk.js": "/info/static/js/453.d2d8b715.chunk.js",
+    "static/media/coffee-and-code.jpg": "/info/static/media/coffee-and-code.dddd93ba85d7d877a319.jpg",
+    "static/media/Plot2.png": "/info/static/media/Plot2.772a7cb5efca958390b8.png",
+    "static/media/Plot1.png": "/info/static/media/Plot1.bf4a558ac5543448feaa.png",
+    "static/media/Plot3.png": "/info/static/media/Plot3.c5d2e57ad2be617f9b37.png",
     "index.html": "/info/index.html",
-    "main.2d462af8.css.map": "/info/static/css/main.2d462af8.css.map",
-    "main.2097d3d8.js.map": "/info/static/js/main.2097d3d8.js.map",
+    "main.116aaa61.css.map": "/info/static/css/main.116aaa61.css.map",
+    "main.99426f23.js.map": "/info/static/js/main.99426f23.js.map",
     "453.d2d8b715.chunk.js.map": "/info/static/js/453.d2d8b715.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2d462af8.css",
-    "static/js/main.2097d3d8.js"
+    "static/css/main.116aaa61.css",
+    "static/js/main.99426f23.js"
   ]
 }
