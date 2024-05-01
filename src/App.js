@@ -1,9 +1,7 @@
-import Home from "./Home.js";
+import Navbar from "./components/Navbar";
 
 export default function App() {
   return (
-    <div>
-      <Home/>
-    </div>
-  );
+    <Navbar/>
+  )
 }
