@@ -33,10 +33,10 @@ export default function Navbar(props) {
           {activeMenu ?
             <div id="menu-item-container" onClick={() => setActiveMenu(!activeMenu)}>
               <HashLink to="/info" className="menu-item" onClick={() => window.scrollTo(0, 0)}>Home  →</HashLink>
-              <HashLink to="/#about" className="menu-item">About Us  →</HashLink>
-              <HashLink to="/#services" className="menu-item">Our Services  →</HashLink>
-              <HashLink to="/#faqs" className="menu-item">FAQs  →</HashLink>
-              <HashLink to="/#contact" className="menu-item">Get in Touch  →</HashLink>
+              <HashLink to="/info#about" className="menu-item">About  →</HashLink>
+              <HashLink to="/info#impact-on-tech-roles" className="menu-item">AI's Impact on Tech Roles  →</HashLink>
+              <HashLink to="/info#ai-jobs-future" className="menu-item">What will AI Jobs Look like in the Future?  →</HashLink>
+              <HashLink to="/info#remote-contractors" className="menu-item">The Emergence of Remote Work an AI Contractors  →</HashLink>
               <div style={{width: "30%"}}></div>
             </div>
             : null}
