@@ -193,6 +193,38 @@ code {
   font-weight: 300;
 }
 
+@media (max-width: 650px){
+  .landing-title{
+    font-size: 50px;
+  }
+  .article-container{
+    width: 90%;
+  }
+  .section-title{
+    font-size: 30px;
+  }
+  .article-text{
+    font-size: 15px;
+    line-height: 1.75rem;
+  }
+}
+
+@media (max-width: 950px){
+  .landing-title{
+    font-size: 60px;
+  }
+  .article-container{
+    width: 70%;
+  }
+  .section-title{
+    font-size: 35px;
+  }
+  .article-text{
+    font-size: 16px;
+    line-height: 1.75rem;
+  }
+}
+
 .landing-subtitle{
   margin: 0;
   font-size: 50px;

@@ -37,6 +37,7 @@ export default function Navbar(props) {
               <HashLink to="/info#impact-on-tech-roles" className="menu-item">AI's Impact on Tech Roles  →</HashLink>
               <HashLink to="/info#ai-jobs-future" className="menu-item">What will AI Jobs Look like in the Future?  →</HashLink>
               <HashLink to="/info#remote-contractors" className="menu-item">The Emergence of Remote Work an AI Contractors  →</HashLink>
+              <HashLink to="/info#conclusions" className="menu-item">Conclusions and Predictions  →</HashLink>
               <div style={{width: "30%"}}></div>
             </div>
             : null}
